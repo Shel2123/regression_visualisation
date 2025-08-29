@@ -99,4 +99,4 @@ b = b - \eta \frac{\partial L}{\partial b}
 
 ## 📜 License
 
-MIT License
+![MIT License](LICENSE)
