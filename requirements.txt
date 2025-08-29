@@ -1,0 +1,6 @@
+plotly
+matplotlib
+numpy
+pandas
+imageio
+ipython
